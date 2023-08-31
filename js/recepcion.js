@@ -38,4 +38,5 @@ for (let pacientes = 1 ; pacientes <= 5; pacientes++){
   alert("Indiquele a " + nombrePacientes + " cómo llegar a la sala de espera. El doctor le estará esperando.")
 }
 
+alert("Parece que hoy ha sido un día largo. Toca descansar, " + nombre + ". Mañana será otro día.");
 
